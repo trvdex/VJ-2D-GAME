@@ -1,0 +1,34 @@
+VJ grup 11
+David Comino Muriano, david.comino@estudiantat.upc.edu
+Marc Ribas Acon, marc.ribas.acon@estudiantat.upc.edu
+
+Funcionalitats implementades:
+-4 Pantalles: Menú principal (títol), instruccions, joc i crèdits.
+-Nivell basat en "Sacred Woods" de Whomp'Em. Hem recreat el nivell tant a nivell estètic com a nivell funcional pràcticament 1:1.
+-Tres enemics del nivell "Sacred Woods" implementats: Saltador (Ogre verd que salta), talp i l'aranya.
+-Moviment d'esquerra a dreta de Soaring Eagle; salt amb la tecla Z, atac amb X, atac vertical amb ↑ quan Soaring Eagle està saltant, protegir-se d'atacs verticals amb ↑ quan està a terra i ajupir-se amb ↓.
+-Sistema de vida i llanternes dinàmic.
+-5 power-ups: cor petit, cor gran, carbassa, pedernal (incrementa el poder d'atac) i la pell de cérvol (atorga invulnerabilitat durant un curt període de temps)
+-Tòtem de foc. Es pot utilitzar intercanviant l'arma amb ENTER i atacant.
+-Boss basat en el boss del nivell "Ice Ritual" de Whomp'Em. En derrotar-lo hi ha una petita cinemàtica i Soaring Eagle obtindrà un tòtem.
+-GUI que indica la vida actual de Soaring Eagle, nombre de llanternes, vida del boss (quan estigui en pantalla), arma en ús i si el jugador té un pedernal actiu.
+-God mode amb G i Heal amb H.
+-Música per: el menú principal, el nivell, el boss, en matar el boss i els crèdits.
+-Efectes de so per: els atacs, els salts, la mort d'un enemic, al ser colpejat, al aconseguir un power-up, al curar-se, quan les aranyes disparen i quan el boss ataca.
+-Diverses animacions tant per a les diferents accions de Soaring Eagle com per als enemics i el boss.
+
+Instruccions del joc:
+-Passar la pantalla de títol i el tutorial amb SPACE.
+-Moviment horitzontal amb ← →.
+-Salt amb Z.
+-Atac amb X.
+-Atac en vertical amb X estant a l'aire.
+-Ajupir-se amb ↓ (també permet atacar en aquesta posició).
+-Canviar d'arma amb ENTER.
+-Tancar el joc amb ESC.
+
+El jugador comença en una pantalla de títol, si pressiona SPACE passarà a veure els controls del joc i si pressiona SPACE un altre cop, passarà a jugar.
+L'objectiu del joc és arribar fins al boss final del nivell i eliminar-lo. Pel camí el jugador trobarà diferents tipus d'obstacles com enemics o punxes, però també trobarà diferents tipus de power-ups que l'ajudaran a seguir endavant.
+
+OBSERVACIÓ:
+A l'hora de reproduir el vídeo "demo.avi", hem vist que el reproductor de vídeo de Windows no suportava el códec d'audio. Però amb el reproductor de VLC no hi ha hagut cap problema.
